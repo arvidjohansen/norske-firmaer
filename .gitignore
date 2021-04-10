@@ -1,2 +1,4 @@
 enheter_alle.xlsx
 dist_settings.py
+.pyc
+__pycache__
